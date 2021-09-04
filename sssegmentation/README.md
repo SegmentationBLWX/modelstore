@@ -3,6 +3,7 @@ modelstore for sssegmentation.
 
 
 # Resource List
-- [FCN](https://arxiv.org/pdf/1411.4038.pdf)
-- [CE2P](https://arxiv.org/pdf/1809.05996.pdf)
-- [SETR](https://arxiv.org/pdf/2012.15840.pdf)
+- [FCN](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fcn)
+- [CE2P](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_ce2p)
+- [SETR](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_setr)
+- [CCNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_ccnet)
