@@ -10,3 +10,4 @@ modelstore for sssegmentation.
 - [DANet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_danet)
 - [GCNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_gcnet)
 - [DMNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_dmnet)
+- [EncNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_encnet)
