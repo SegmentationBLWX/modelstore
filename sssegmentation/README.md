@@ -21,3 +21,4 @@ modelstore for sssegmentation.
 - [UPerNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_upernet)
 - [Deeplabv3](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_deeplabv3)
 - [Segformer](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_segformer)
+- [SemanticFPN](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_semanticfpn)
