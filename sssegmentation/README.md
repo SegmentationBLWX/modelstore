@@ -18,3 +18,4 @@ modelstore for sssegmentation.
 - [PSPNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_pspnet)
 - [PSANet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_psanet)
 - [APCNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_apcnet)
+- [UPerNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_upernet)
