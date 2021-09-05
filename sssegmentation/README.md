@@ -8,3 +8,4 @@ modelstore for sssegmentation.
 - [SETR](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_setr)
 - [CCNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_ccnet)
 - [DANet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_danet)
+- [GCNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_gcnet)
