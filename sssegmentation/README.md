@@ -16,3 +16,4 @@ modelstore for sssegmentation.
 - [ANNNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_annnet)
 - [EMANet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_emanet)
 - [PSPNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_pspnet)
+- [PSANet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_psanet)
