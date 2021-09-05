@@ -13,3 +13,4 @@ modelstore for sssegmentation.
 - [EncNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_encnet)
 - [OCRNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_ocrnet)
 - [DNLNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_dnlnet)
+- [ANNNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_annnet)
