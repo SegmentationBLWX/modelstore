@@ -6,6 +6,7 @@ modelstore for sssegmentation.
 #### Supported Backbones
 - [HRNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_ocrnet)
 - [ResNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fcn)
+- [ResNeSt](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_resnest)
 - [MobileNetV2](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_mobilenet)
 - [MobileNetV3](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_mobilenet)
 - [VisionTransformer](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_setr)
