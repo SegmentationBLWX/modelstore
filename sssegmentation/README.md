@@ -15,6 +15,7 @@ modelstore for sssegmentation.
 - [FCN](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fcn)
 - [CE2P](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_ce2p)
 - [SETR](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_setr)
+- [ISNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_isnet)
 - [CCNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_ccnet)
 - [DANet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_danet)
 - [GCNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_gcnet)
