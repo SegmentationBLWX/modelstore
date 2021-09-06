@@ -34,3 +34,4 @@ modelstore for sssegmentation.
 - [SemanticFPN](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_semanticfpn)
 - [NonLocalNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_nonlocalnet)
 - [Deeplabv3Plus](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_deeplabv3plus)
+- [MemoryNet-MCIBI](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_memorynet)
