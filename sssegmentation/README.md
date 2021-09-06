@@ -3,6 +3,11 @@ modelstore for sssegmentation.
 
 
 # Resource List
+#### Supported Backbones
+- [HRNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_ocrnet)
+- [ResNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fcn)
+- [VisionTransformer](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_setr)
+#### Supported Models
 - [FCN](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fcn)
 - [CE2P](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_ce2p)
 - [SETR](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_setr)
@@ -23,3 +28,4 @@ modelstore for sssegmentation.
 - [Segformer](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_segformer)
 - [SemanticFPN](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_semanticfpn)
 - [NonLocalNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_nonlocalnet)
+- [Deeplabv3Plus](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_deeplabv3plus)
