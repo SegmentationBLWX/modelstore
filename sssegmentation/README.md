@@ -9,6 +9,7 @@ modelstore for sssegmentation.
 - [ResNeSt](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_resnest)
 - [MobileNetV2](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_mobilenet)
 - [MobileNetV3](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_mobilenet)
+- [SwinTransformer](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_swin)
 - [VisionTransformer](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_setr)
 #### Supported Models
 - [FCN](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fcn)
