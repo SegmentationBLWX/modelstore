@@ -35,3 +35,4 @@ modelstore for sssegmentation.
 - [NonLocalNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_nonlocalnet)
 - [Deeplabv3Plus](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_deeplabv3plus)
 - [MemoryNet-MCIBI](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_memorynet)
+- [Mixed Precision (FP16) Training](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fp16)
