@@ -20,6 +20,7 @@ modelstore for sssegmentation.
 - [DANet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_danet)
 - [GCNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_gcnet)
 - [DMNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_dmnet)
+- [ISANet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_isanet)
 - [EncNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_encnet)
 - [OCRNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_ocrnet)
 - [DNLNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_dnlnet)
