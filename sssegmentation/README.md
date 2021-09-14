@@ -30,6 +30,7 @@ modelstore for sssegmentation.
 - [PSANet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_psanet)
 - [APCNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_apcnet)
 - [UPerNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_upernet)
+- [PointRend](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_pointrend)
 - [Deeplabv3](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_deeplabv3)
 - [Segformer](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_segformer)
 - [SemanticFPN](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_semanticfpn)
