@@ -4,6 +4,7 @@ modelstore for sssegmentation.
 
 # Resource List
 #### Supported Backbones
+- [CGNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_cgnet)
 - [HRNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_ocrnet)
 - [ResNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fcn)
 - [ResNeSt](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_resnest)
