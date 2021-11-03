@@ -10,6 +10,7 @@ modelstore for sssegmentation.
 - [ResNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fcn)
 - [ResNeSt](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_resnest)
 - [FastSCNN](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fastscnn)
+- [BiSeNetV1](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_bisenetv1)
 - [BiSeNetV2](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_bisenetv2)
 - [MobileNetV2](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_mobilenet)
 - [MobileNetV3](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_mobilenet)
