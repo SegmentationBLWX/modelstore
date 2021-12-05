@@ -7,6 +7,7 @@ modelstore for sssegmentation.
 - [UNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_unet)
 - [CGNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_cgnet)
 - [HRNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_ocrnet)
+- [ERFNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_erfnet)
 - [ResNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fcn)
 - [ResNeSt](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_resnest)
 - [FastSCNN](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fastscnn)
