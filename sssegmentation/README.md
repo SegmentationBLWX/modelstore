@@ -41,6 +41,7 @@ modelstore for sssegmentation.
 - [PointRend](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_pointrend)
 - [Deeplabv3](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_deeplabv3)
 - [Segformer](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_segformer)
+- [MaskFormer](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_maskformer)
 - [SemanticFPN](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_semanticfpn)
 - [NonLocalNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_nonlocalnet)
 - [Deeplabv3Plus](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_deeplabv3plus)
