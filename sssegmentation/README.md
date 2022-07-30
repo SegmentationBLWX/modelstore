@@ -1,9 +1,7 @@
-# Introduction
-modelstore for sssegmentation.
-
-
 # Resource List
+
 #### Supported Backbones
+
 - [UNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_unet)
 - [Twins](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_twins)
 - [CGNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_cgnet)
@@ -11,6 +9,7 @@ modelstore for sssegmentation.
 - [ERFNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_erfnet)
 - [ResNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fcn)
 - [ResNeSt](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_resnest)
+- [ConvNeXt](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_convnext)
 - [FastSCNN](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fastscnn)
 - [BiSeNetV1](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_bisenetv1)
 - [BiSeNetV2](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_bisenetv2)
@@ -18,7 +17,9 @@ modelstore for sssegmentation.
 - [MobileNetV3](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_mobilenet)
 - [SwinTransformer](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_swin)
 - [VisionTransformer](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_setr)
+
 #### Supported Models
+
 - [FCN](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fcn)
 - [CE2P](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_ce2p)
 - [SETR](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_setr)
