@@ -3,6 +3,7 @@
 #### Supported Backbones
 
 - [UNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_unet)
+- [BEiT](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_beit)
 - [Twins](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_twins)
 - [CGNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_cgnet)
 - [HRNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_ocrnet)
