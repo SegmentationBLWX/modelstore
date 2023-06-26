@@ -2,4 +2,5 @@
 
 #### Supported Runners
 
-- [MIB](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_mib)
+- [MIB](https://github.com/SegmentationBLWX/modelstore/releases/tag/csseg_mib)
+- [PLOP](https://github.com/SegmentationBLWX/modelstore/releases/tag/csseg_plop)
