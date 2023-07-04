@@ -2,6 +2,7 @@
 
 #### Supported Backbones
 
+- [MAE](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_mae)
 - [UNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_unet)
 - [BEiT](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_beit)
 - [Twins](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_twins)
