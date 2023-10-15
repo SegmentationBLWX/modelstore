@@ -22,6 +22,7 @@
 
 #### Supported Models
 
+- [SAM](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_sam)
 - [FCN](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fcn)
 - [CE2P](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_ce2p)
 - [SETR](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_setr)
@@ -45,6 +46,7 @@
 - [PointRend](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_pointrend)
 - [Deeplabv3](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_deeplabv3)
 - [Segformer](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_segformer)
+- [MobileSAM](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_mobilesam)
 - [MaskFormer](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_maskformer)
 - [SemanticFPN](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_semanticfpn)
 - [NonLocalNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_nonlocalnet)
