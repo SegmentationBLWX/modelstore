@@ -32,6 +32,7 @@
 - [DANet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_danet)
 - [GCNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_gcnet)
 - [DMNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_dmnet)
+- [IDRNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_idrnet)
 - [ISANet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_isanet)
 - [EncNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_encnet)
 - [OCRNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_ocrnet)
