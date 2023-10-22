@@ -2,57 +2,61 @@
 
 #### Supported Backbones
 
-- [MAE](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_mae)
-- [UNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_unet)
-- [BEiT](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_beit)
-- [Twins](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_twins)
-- [CGNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_cgnet)
-- [HRNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_ocrnet)
-- [ERFNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_erfnet)
-- [ResNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fcn)
-- [ResNeSt](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_resnest)
-- [ConvNeXt](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_convnext)
-- [FastSCNN](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fastscnn)
-- [BiSeNetV1](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_bisenetv1)
-- [BiSeNetV2](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_bisenetv2)
-- [MobileNetV2](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_mobilenet)
-- [MobileNetV3](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_mobilenet)
-- [SwinTransformer](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_swin)
-- [VisionTransformer](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_setr)
+| Backbone               | Model Zoo                                                                                      | Paper Link                                                    |
+| :-:                    | :-:                                                                                            | :-:                                                           |
+| ConvNeXt               | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_convnext)            | [CVPR 2022](https://arxiv.org/pdf/2201.03545.pdf)             |
+| MAE                    | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_mae)                 | [CVPR 2022](https://arxiv.org/pdf/2111.06377.pdf)             |
+| BEiT                   | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_beit)                | [ICLR 2022](https://arxiv.org/pdf/2106.08254.pdf)             |
+| Twins                  | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_twins)               | [NeurIPS 2021](https://arxiv.org/pdf/2104.13840.pdf)          |
+| SwinTransformer        | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_swin)                | [ICCV 2021](https://arxiv.org/pdf/2103.14030.pdf)             |
+| VisionTransformer      | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_setr)                | [IClR 2021](https://arxiv.org/pdf/2010.11929.pdf)             |
+| BiSeNetV2              | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_bisenetv2)           | [IJCV 2021](https://arxiv.org/pdf/2004.02147.pdf)             |
+| ResNeSt                | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_resnest)             | [ArXiv 2020](https://arxiv.org/pdf/2004.08955.pdf)            |
+| CGNet                  | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_cgnet)               | [TIP 2020](https://arxiv.org/pdf/1811.08201.pdf)              |
+| HRNet                  | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_ocrnet)              | [CVPR 2019](https://arxiv.org/pdf/1908.07919.pdf)             |
+| MobileNetV3            | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_mobilenet)           | [ICCV 2019](https://arxiv.org/pdf/1905.02244.pdf)             |
+| FastSCNN               | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fastscnn)            | [ArXiv 2019](https://arxiv.org/pdf/1902.04502.pdf)            |
+| BiSeNetV1              | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_bisenetv1)           | [ECCV 2018](https://arxiv.org/pdf/1808.00897.pdf)             |
+| MobileNetV2            | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_mobilenet)           | [CVPR 2018](https://arxiv.org/pdf/1801.04381.pdf)             |
+| ERFNet                 | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_erfnet)              | [T-ITS 2017](https://ieeexplore.ieee.org/document/8063438)    |
+| ResNet                 | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fcn)                 | [CVPR 2016](https://arxiv.org/pdf/1512.03385.pdf)             |
+| UNet                   | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_unet)                | [MICCAI 2015](https://arxiv.org/pdf/1505.04597.pdf)           |
 
 #### Supported Models
 
-- [SAM](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_sam)
-- [FCN](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fcn)
-- [CE2P](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_ce2p)
-- [SETR](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_setr)
-- [ISNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_isnet)
-- [ICNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_icnet)
-- [CCNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_ccnet)
-- [DANet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_danet)
-- [GCNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_gcnet)
-- [DMNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_dmnet)
-- [IDRNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_idrnet)
-- [ISANet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_isanet)
-- [EncNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_encnet)
-- [OCRNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_ocrnet)
-- [DNLNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_dnlnet)
-- [ANNNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_annnet)
-- [EMANet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_emanet)
-- [PSPNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_pspnet)
-- [PSANet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_psanet)
-- [APCNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_apcnet)
-- [FastFCN](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fastfcn)
-- [UPerNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_upernet)
-- [PointRend](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_pointrend)
-- [Deeplabv3](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_deeplabv3)
-- [Segformer](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_segformer)
-- [MobileSAM](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_mobilesam)
-- [MaskFormer](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_maskformer)
-- [Mask2Former](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_mask2former)
-- [SemanticFPN](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_semanticfpn)
-- [NonLocalNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_nonlocalnet)
-- [Deeplabv3Plus](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_deeplabv3plus)
-- [MemoryNet-MCIBI](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_memorynet)
-- [MemoryNet-MCIBI++](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_memorynetv2)
-- [Mixed Precision (FP16) Training](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fp16)
+| Segmentor                         | Model Zoo                                                                                      | Paper Link                                                                                                                                              |
+| :-:                               | :-:                                                                                            | :-:                                                                                                                                                     |
+| IDRNet                            | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_idrnet)              | [NeurIPS 2023](https://arxiv.org/pdf/2310.10755.pdf)                                                                                                    |
+| MobileSAM                         | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_mobilesam)           | [ArXiv 2023](https://arxiv.org/pdf/2306.14289.pdf)                                                                                                      |
+| SAM                               | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_sam)                 | [ArXiv 2023](https://arxiv.org/pdf/2304.02643.pdf)                                                                                                      |
+| MemoryNet-MCIBI++                 | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_memorynetv2)         | [TPAMI 2022](https://arxiv.org/pdf/2209.04471.pdf)                                                                                                      |
+| Mask2Former                       | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_mask2former)         | [CVPR 2022](https://arxiv.org/pdf/2112.01527.pdf)                                                                                                       |
+| ISNet                             | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_isnet)               | [ICCV 2021](https://arxiv.org/pdf/2108.12382.pdf)                                                                                                       |
+| MemoryNet-MCIBI                   | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_memorynet)           | [ICCV 2021](https://arxiv.org/pdf/2108.11819.pdf)                                                                                                       |
+| MaskFormer                        | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_maskformer)          | [NeurIPS 2021](https://arxiv.org/pdf/2107.06278.pdf)                                                                                                    |
+| Segformer                         | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_segformer)           | [NeurIPS 2021](https://arxiv.org/pdf/2105.15203.pdf)                                                                                                    |
+| SETR                              | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_setr)                | [CVPR 2021](https://arxiv.org/pdf/2012.15840.pdf)                                                                                                       |
+| ISANet                            | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_isanet)              | [IJCV 2021](https://arxiv.org/pdf/1907.12273.pdf)                                                                                                       |
+| DNLNet                            | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_dnlnet)              | [ECCV 2020](https://arxiv.org/pdf/2006.06668.pdf)                                                                                                       |
+| PointRend                         | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_pointrend)           | [CVPR 2020](https://arxiv.org/pdf/1912.08193.pdf)                                                                                                       |
+| OCRNet                            | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_ocrnet)              | [ECCV 2020](https://arxiv.org/pdf/1909.11065.pdf)                                                                                                       |
+| GCNet                             | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_gcnet)               | [TPAMI 2020](https://arxiv.org/pdf/1904.11492.pdf)                                                                                                      |
+| APCNet                            | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_apcnet)              | [CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/He_Adaptive_Pyramid_Context_Network_for_Semantic_Segmentation_CVPR_2019_paper.pdf)   |
+| DMNet                             | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_dmnet)               | [ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/He_Dynamic_Multi-Scale_Filters_for_Semantic_Segmentation_ICCV_2019_paper.pdf)        |
+| ANNNet                            | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_annnet)              | [ICCV 2019](https://arxiv.org/pdf/1908.07678.pdf)                                                                                                       |
+| EMANet                            | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_emanet)              | [ICCV 2019](https://arxiv.org/pdf/1907.13426.pdf)                                                                                                       |
+| FastFCN                           | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fastfcn)             | [ArXiv 2019](https://arxiv.org/pdf/1903.11816.pdf)                                                                                                      |
+| SemanticFPN                       | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_semanticfpn)         | [CVPR 2019](https://arxiv.org/pdf/1901.02446.pdf)                                                                                                       |
+| CCNet                             | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_ccnet)               | [ICCV 2019](https://arxiv.org/pdf/1811.11721.pdf)                                                                                                       |
+| CE2P                              | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_ce2p)                | [AAAI 2019](https://arxiv.org/pdf/1809.05996.pdf)                                                                                                       |
+| DANet                             | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_danet)               | [CVPR 2019](https://arxiv.org/pdf/1809.02983.pdf)                                                                                                       |
+| PSANet                            | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_psanet)              | [ECCV 2018](https://openaccess.thecvf.com/content_ECCV_2018/papers/Hengshuang_Zhao_PSANet_Point-wise_Spatial_ECCV_2018_paper.pdf)                       |
+| UPerNet                           | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_upernet)             | [ECCV 2018](https://arxiv.org/pdf/1807.10221.pdf)                                                                                                       |
+| EncNet                            | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_encnet)              | [CVPR 2018](https://arxiv.org/pdf/1803.08904.pdf)                                                                                                       |
+| Deeplabv3Plus                     | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_deeplabv3plus)       | [ECCV 2018](https://arxiv.org/pdf/1802.02611.pdf)                                                                                                       |
+| NonLocalNet                       | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_nonlocalnet)         | [CVPR 2018](https://arxiv.org/pdf/1711.07971.pdf)                                                                                                       |
+| ICNet                             | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_icnet)               | [ECCV 2018](https://arxiv.org/pdf/1704.08545.pdf)                                                                                                       |
+| Mixed Precision (FP16) Training   | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fp16)                | [ArXiv 2017](https://arxiv.org/pdf/1710.03740.pdf)                                                                                                      |
+| Deeplabv3                         | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_deeplabv3)           | [ArXiv 2017](https://arxiv.org/pdf/1706.05587.pdf)                                                                                                      |
+| PSPNet                            | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_pspnet)              | [CVPR 2017](https://arxiv.org/pdf/1612.01105.pdf)                                                                                                       |
+| FCN                               | [Click](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_fcn)                 | [TPAMI 2017](https://arxiv.org/pdf/1411.4038.pdf)                                                                                                       |
