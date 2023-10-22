@@ -49,6 +49,7 @@
 - [Segformer](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_segformer)
 - [MobileSAM](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_mobilesam)
 - [MaskFormer](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_maskformer)
+- [Mask2Former](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_mask2former)
 - [SemanticFPN](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_semanticfpn)
 - [NonLocalNet](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_nonlocalnet)
 - [Deeplabv3Plus](https://github.com/SegmentationBLWX/modelstore/releases/tag/ssseg_deeplabv3plus)
